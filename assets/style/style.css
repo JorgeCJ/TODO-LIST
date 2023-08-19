@@ -42,6 +42,7 @@ body{
   height:auto;
   width:40vh;
   border: 1px solid white;
+  margin-left:50px;
 }
 
 div:hover{
